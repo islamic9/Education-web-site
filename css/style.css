@@ -1,0 +1,150 @@
+.btn{
+    border: 2px solid rgb(128, 89, 236);
+    color: crimson;
+    padding: 12px 46px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: rgb(245, 245, 245);
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+.father{
+    margin: 30px auto;
+    width: 1300px;
+    height: auto;
+}
+
+.boxes{
+    margin-left: 10px;
+    background-color: #ebe8e8;
+    width: 300px;
+    height: auto;
+    border-radius: 7px;
+}
+
+.fff{
+    margin: 0;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.jjj{
+    border-radius: 8px;
+}
+
+.ddd{
+    font-weight: 400;
+}
+
+.a{
+    text-decoration: none;
+    color: rgb(39, 38, 38);
+    font-size: 300px;
+}
+
+.child{
+    margin-top: 20px;
+    margin-left: 45px;
+    width: 1200px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    margin: 10px;
+}
+
+.btn-div{
+    margin: 0 auto;
+}
+
+.desc{
+    margin-left: 10px;
+}
+
+strong{
+    font-family: sans-serif;
+}
+.text{
+    font-family: sans-serif;
+    color: red;
+}
+.dolor{
+    font-family: sans-serif;
+    word-spacing: 10px;
+}
+.dolor1{
+    font-family: sans-serif;
+    font-size: 35px;
+   
+}
+
+/* big page */
+
+
+.boxe{
+    display: flex;
+}
+
+.container{
+    margin: 10px
+}
+
+.desc2{
+    width: 500px;
+    margin-top: -13px;
+}
+
+time{
+    color: gray;
+    font-family: sans-serif;
+}
+
+sup{
+    color: blue;
+    font-size: 40px;
+}
+
+img{
+    object-fit: cover;
+}
+
+.nnn{
+    border-radius: 5px;
+}
+
+.hw{
+    font-family: sans-serif;
+    margin-bottom: 0;
+}
+
+.s{
+    color: #808080;
+    Line-height: 20px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.button{
+    border: none;
+    background-color: rgb(255, 0, 149);
+    color: wheat;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.link{
+    text-decoration: none;
+    color: darkgray;
+    border: px solid rgb(41, 38, 38);
+    padding: 10px 30px;
+    background-color: rgb(151, 221, 157);
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+
+}
